@@ -41,6 +41,7 @@ ISO BASE:
 | Propriedade | Valor |
 | --- | --- |
 | Edição | Europe (En,Fr,De,Es,It), v1.01 |
+| ID | `ULES00318` |
 | Tamanho | 749.699.072 bytes |
 | SHA-256 | `eb0a5b6aff18688df544126e1a1e2480a1742fb48db74a1e64573d43073d1f17` |
 
@@ -62,9 +63,9 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 | --- | --- |
 | Nome | `Monster Hunter Freedom (PT-BR) (v1.0).iso` |
 | Tamanho | 750.166.016 bytes |
-| SHA-256 | `3ae3261ac95ba8f25219740ee4054ed3bea2bf4a63a7cfacc8287ba5d80c9854` |
+| SHA-256 | `c992033abf015522032beb4babceabe03ad88bcdd5088a854ad9dac697365931` |
 
-O patch `.xdelta` possui SHA-256 `c4c0bf1ca9a4ae1be700619ec1063ded9e671dd741c47f58c9531458b01d1db8`.
+O patch `.xdelta` possui SHA-256 `5416b0afe6995bd91e25e0fcd200f6173b9c174c63b7f0e8c56f4863828e1903`.
 
 ## Conteúdo da tradução
 
