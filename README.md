@@ -70,6 +70,7 @@ O patch `.xdelta` possui SHA-256 `5416b0afe6995bd91e25e0fcd200f6173b9c174c63b7f0
 ## Conteúdo da tradução
 
 - textos principais, menus, itens, equipamentos e descrições;
+- armas e armaduras permanecem com os nomes originais e as descrições traduzidas;
 - missões, objetivos, falhas, resultados e eventos;
 - tutoriais, artigos e ajuda;
 - diálogos de NPCs de Kokoto;
