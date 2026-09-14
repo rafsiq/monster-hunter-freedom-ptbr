@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://monsterhunterwiki.org/images/6/67/MHF1-Logo.png" alt="logo" width="35%">
+</p>
+
 # Monster Hunter Freedom — Tradução PT-BR
 
 Patch de tradução não oficial de **Monster Hunter Freedom** para português do Brasil.
