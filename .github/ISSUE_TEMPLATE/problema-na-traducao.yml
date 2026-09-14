@@ -1,0 +1,41 @@
+name: Problema na tradução
+description: Relate um erro de texto, quebra de linha ou problema visual.
+title: "[Tradução] "
+labels:
+  - traducao
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a melhorar a tradução. Não envie nem peça links para ISOs.
+  - type: input
+    id: local
+    attributes:
+      label: Local do jogo
+      description: Informe menu, vila, NPC, missão ou outra tela em que o problema aparece.
+      placeholder: Exemplo: descrição do item na caixa de equipamentos
+    validations:
+      required: true
+  - type: textarea
+    id: exibido
+    attributes:
+      label: Texto exibido
+      description: Copie o texto como ele aparece no jogo.
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Correção sugerida
+      description: Se souber, informe como o texto deveria aparecer.
+  - type: input
+    id: ambiente
+    attributes:
+      label: Ambiente
+      description: Informe PPSSPP e sua versão, ou o modelo do PSP.
+      placeholder: Exemplo: PPSSPP 1.x no Windows
+  - type: textarea
+    id: detalhes
+    attributes:
+      label: Captura de tela e detalhes adicionais
+      description: Arraste uma imagem para este campo e acrescente qualquer informação útil.
