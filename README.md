@@ -32,7 +32,7 @@ A tradução foi desenvolvida tomando como referência as traduções oficiais e
 - Um programa compatível com patches Xdelta 3, obtido pelo próprio usuário.
 - Aproximadamente 750 MB livres para a nova ISO.
 
-O aplicador aceita exclusivamente esta imagem de origem:
+ISO BASE:
 
 | Propriedade | Valor |
 | --- | --- |
@@ -46,15 +46,9 @@ Outras regiões, versões, imagens modificadas ou arquivos compactados não são
 
 1. Baixe `Monster-Hunter-Freedom-PTBR-v1.0.xdelta` na página da Release v1.0.
 2. Instale ou baixe um aplicador compatível com Xdelta 3.
-3. Selecione sua ISO europeia v1.01 como arquivo de origem.
+3. Selecione sua ISO base como arquivo de origem.
 4. Selecione o arquivo `.xdelta` baixado como patch.
 5. Escolha `Monster Hunter Freedom (PT-BR) (v1.0).iso` como arquivo de saída.
-
-Na ferramenta de linha de comando `xdelta3`, o equivalente é:
-
-```text
-xdelta3 -d -s "Monster Hunter Freedom (Europe) (En,Fr,De,Es,It) (v1.01).iso" "Monster-Hunter-Freedom-PTBR-v1.0.xdelta" "Monster Hunter Freedom (PT-BR) (v1.0).iso"
-```
 
 Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 
@@ -76,15 +70,13 @@ O patch `.xdelta` possui SHA-256 `c4c0bf1ca9a4ae1be700619ec1063ded9e671dd741c47f
 - diálogos de NPCs de Kokoto;
 - padronização terminológica em português do Brasil.
 
-Antes da montagem da versão pública, as 7.400 entradas do bloco principal, 1.399 falas de NPCs e os 5.874 blocos internos da imagem foram verificados. O patch também foi aplicado novamente à ISO original e o resultado foi confirmado pelo SHA-256.
-
 ## Problemas conhecidos
 
-A estrutura e o conteúdo passaram pelas verificações automatizadas. A revisão visual completa no PPSSPP ainda está em andamento; podem existir textos longos, quebras de linha ou caracteres que precisem de ajustes de apresentação.
+A estrutura e o conteúdo passaram pelas verificações automatizadas. Podem existir textos longos, quebras de linha ou caracteres que precisem de ajustes de apresentação.
 
 Ao encontrar um problema, abra uma issue e informe o local do jogo, o texto exibido, o texto esperado e, se possível, inclua uma captura de tela.
 
-# Aviso legal
+## Aviso legal
 
 Este é um projeto de fãs, gratuito e sem fins lucrativos. Não possui vínculo, autorização ou associação com Capcom, Sony Interactive Entertainment ou qualquer outra detentora de direitos relacionada ao jogo.
 
