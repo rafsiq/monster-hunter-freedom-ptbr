@@ -10,6 +10,15 @@ Esta distribuição contém somente as diferenças produzidas pela tradução. N
 
 A tradução foi desenvolvida tomando como referência as traduções oficiais em português do Brasil dos jogos mais recentes da série *Monster Hunter*. Nomes, termos recorrentes e escolhas de estilo foram alinhados, sempre que possível, à terminologia oficial moderna, com adaptações para o contexto e as limitações do primeiro *Monster Hunter Freedom*.
 
+## Conteúdo da tradução
+
+- textos principais, menus, itens, equipamentos e descrições;
+- armas e armaduras permanecem com os nomes originais e as descrições traduzidas;
+- missões, objetivos, falhas, resultados e eventos;
+- tutoriais, artigos e ajuda;
+- diálogos de NPCs de Kokoto;
+- padronização terminológica em português do Brasil.
+
 ## Imagens da tradução
 
 <p align="center">
@@ -66,15 +75,6 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 | SHA-256 | `c992033abf015522032beb4babceabe03ad88bcdd5088a854ad9dac697365931` |
 
 O patch `.xdelta` possui SHA-256 `5416b0afe6995bd91e25e0fcd200f6173b9c174c63b7f0e8c56f4863828e1903`.
-
-## Conteúdo da tradução
-
-- textos principais, menus, itens, equipamentos e descrições;
-- armas e armaduras permanecem com os nomes originais e as descrições traduzidas;
-- missões, objetivos, falhas, resultados e eventos;
-- tutoriais, artigos e ajuda;
-- diálogos de NPCs de Kokoto;
-- padronização terminológica em português do Brasil.
 
 ## Problemas conhecidos
 
