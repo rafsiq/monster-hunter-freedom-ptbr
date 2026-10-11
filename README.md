@@ -10,6 +10,10 @@ Esta distribuição contém somente as diferenças produzidas pela tradução. N
 
 A tradução foi desenvolvida tomando como referência as traduções oficiais em português do Brasil dos jogos mais recentes da série *Monster Hunter*. Nomes, termos recorrentes e escolhas de estilo foram alinhados, sempre que possível, à terminologia oficial moderna, com adaptações para o contexto e as limitações do primeiro *Monster Hunter Freedom*.
 
+## Processo da tradução
+Agent de IA para extração dos textos, criação de glossário, edição de imagem, tradução preliminar, reinserção dos textos.
+Revisão e aprovação humana em todos os textos + testes in-game.
+
 ## Conteúdo da tradução
 
 - textos principais, menus, itens, equipamentos e descrições;
