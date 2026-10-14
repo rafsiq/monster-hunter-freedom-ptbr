@@ -37,7 +37,7 @@ A tradução foi desenvolvida tomando como referência as traduções oficiais e
 
 ## Versão pública
 
-**v1.0**, publicada em 14/09/2026.
+**v1.1**, publicada em 13/10/2026.
 
 ## Requisitos
 
@@ -58,11 +58,11 @@ Outras regiões, versões, imagens modificadas ou arquivos compactados não são
 
 ## Como instalar
 
-1. Baixe `Monster-Hunter-Freedom-PTBR-v1.0.xdelta` na página da Release v1.0.
+1. Baixe `Monster-Hunter-Freedom-PTBR-v1.1.xdelta` na página da Release v1.1.
 2. Instale ou baixe um aplicador compatível com Xdelta 3.
 3. Selecione sua ISO base como arquivo de origem.
 4. Selecione o arquivo `.xdelta` baixado como patch.
-5. Escolha `Monster Hunter Freedom (PT-BR) (v1.0).iso` como arquivo de saída.
+5. Escolha `Monster Hunter Freedom (PT-BR) (v1.1).iso` como arquivo de saída.
 
 Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 
@@ -70,11 +70,11 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 
 | Propriedade | Valor |
 | --- | --- |
-| Nome | `Monster Hunter Freedom (PT-BR) (v1.0).iso` |
+| Nome | `Monster Hunter Freedom (PT-BR) (v1.1).iso` |
 | Tamanho | 750.166.016 bytes |
-| SHA-256 | `c992033abf015522032beb4babceabe03ad88bcdd5088a854ad9dac697365931` |
+| SHA-256 | `b08cad835d7c21820b0de38bbcddfdeffa1452be908288625643af9fa9b32be1` |
 
-O patch `.xdelta` possui SHA-256 `5416b0afe6995bd91e25e0fcd200f6173b9c174c63b7f0e8c56f4863828e1903`.
+O patch `.xdelta` possui SHA-256 `d07b42817bba47ef829272841bcbdedbcfd3930c00b2bfb27339fdb06f45d192`.
 
 ## Problemas conhecidos
 

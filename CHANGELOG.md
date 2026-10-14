@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## v1.1 — 13/10/2026
+
+- Pequenas revisões nos textos.
+- Tela de seleção de idiomas exibindo o Português.
+
 ## v1.0 — 14/09/2026
 
 Primeira versão pública da tradução brasileira de *Monster Hunter Freedom*.
