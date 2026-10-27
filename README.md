@@ -19,6 +19,10 @@ A tradução foi desenvolvida tomando como referência as traduções oficiais e
 - diálogos de NPCs de Kokoto;
 - padronização terminológica em português do Brasil.
 
+## Vídeo da tradução
+
+https://www.youtube.com/watch?v=BVYMlUiKo-I
+
 ## Imagens da tradução
 
 <p align="center">
