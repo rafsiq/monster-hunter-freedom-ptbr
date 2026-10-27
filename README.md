@@ -71,10 +71,10 @@ Confirme os hashes informados abaixo antes de jogar. Preserve a ISO original.
 | Propriedade | Valor |
 | --- | --- |
 | Nome | `Monster Hunter Freedom (PT-BR) (v1.1).iso` |
-| Tamanho | 750.166.016 bytes |
-| SHA-256 | `b08cad835d7c21820b0de38bbcddfdeffa1452be908288625643af9fa9b32be1` |
+| Tamanho | 750.168.064 bytes |
+| SHA-256 | `97c6f06bdf6262570ae7b634ce38ec49fe659dacf3a377923dd7686746ee55b4` |
 
-O patch `.xdelta` possui SHA-256 `d07b42817bba47ef829272841bcbdedbcfd3930c00b2bfb27339fdb06f45d192`.
+O patch `.xdelta` possui SHA-256 `9084ba45798f8b472cc2eb3316c8ca536b37023f4c168d925b67b6e6ba95df98`.
 
 ## Problemas conhecidos
 
